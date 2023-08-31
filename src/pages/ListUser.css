@@ -1,0 +1,23 @@
+.sessionContainer{
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.adminSessionTitle{
+    display: table;
+    font-size: 36px;
+}
+
+.sessionBtn{
+    display: table;
+}
+
+.sessionColTitle{
+    text-align: left;
+}
+
+.sessionCol{
+    padding-left: "20px";
+    text-align: left;
+}
